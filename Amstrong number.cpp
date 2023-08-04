@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>    //Amstrong number
 using namespace std;
 int main()
 
